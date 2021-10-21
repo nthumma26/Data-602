@@ -6,3 +6,5 @@ Assignment_03: Used cars sales Analysis
 
 Assignment_05: Regression & Explorative Data Analysis on Used Cars dataset
 
+Assignment_06: Building a Machine Learning Model using Logistic Regression with various weights and solvers and evaluating the model.
+
