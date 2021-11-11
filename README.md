@@ -8,3 +8,4 @@ Assignment_05: Regression & Explorative Data Analysis on Used Cars dataset
 
 Assignment_06: Building a Machine Learning Model using Logistic Regression with various weights and solvers and evaluating the model.
 
+Assignmnet_08: Building classiifcation models using Logistic Regression, SVM, AdaBoost, Ensemble, and Decision Trees
